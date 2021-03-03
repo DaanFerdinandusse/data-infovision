@@ -1,0 +1,623 @@
+,decade,school,counts,image_url
+0,1530,bologna,1,http://farm3.staticflickr.com/2821/11174163414_db6814a19b_b.jpg
+1,1530,bologna,1,http://farm8.staticflickr.com/7354/11174094475_6b8347c73b_b.jpg
+2,1570,unknown,1,http://farm8.staticflickr.com/7443/11218947924_f68832cdd9_b.jpg
+3,1570,unknown,1,http://farm6.staticflickr.com/5502/11219063183_feb7929386_b.jpg
+4,1600,london,1,http://farm6.staticflickr.com/5519/11218950745_41a327555e_b.jpg
+5,1600,london,1,http://farm6.staticflickr.com/5534/11219066983_a09c04d3d2_b.jpg
+6,1600,london,1,http://farm6.staticflickr.com/5540/11218950034_1882641677_b.jpg
+7,1600,london,1,http://farm3.staticflickr.com/2827/11219065253_51ba289e29_b.jpg
+8,1610,london,1,http://farm3.staticflickr.com/2815/11218951784_7f7c2b60e1_b.jpg
+9,1630,london,1,http://farm3.staticflickr.com/2868/11218951744_27cb79e8c4_b.jpg
+10,1640,"london,]",1,http://farm4.staticflickr.com/3799/11218968386_5cfc651874_b.jpg
+11,1640,london,1,http://farm4.staticflickr.com/3720/11219068973_88308d823a_b.jpg
+12,1640,london,1,http://farm6.staticflickr.com/5513/10997564203_443ca0c311_b.jpg
+13,1640,london,1,http://farm6.staticflickr.com/5487/11218952784_d3813628bf_b.jpg
+14,1650,"j. y., for e. d. & n. e. london, 1652",1,http://farm3.staticflickr.com/2813/11046598996_1741dd6d13_b.jpg
+15,1650,london?],1,http://farm3.staticflickr.com/2828/11046633634_d779193642_b.jpg
+16,1670,london,1,http://farm3.staticflickr.com/2875/11219071613_34e236aca0_b.jpg
+17,1670,london,1,http://farm6.staticflickr.com/5546/11219070803_a13009452b_b.jpg
+18,1670,london,1,http://farm3.staticflickr.com/2838/11219072503_b3fc1e6411_b.jpg
+19,1670,london,1,http://farm4.staticflickr.com/3784/11218957635_708264c6b3_b.jpg
+20,1670,london,1,http://farm8.staticflickr.com/7345/11218953774_9245c4c5e4_b.jpg
+21,1670,london,1,http://farm6.staticflickr.com/5513/11219070143_968a953547_b.jpg
+22,1670,london,1,http://farm3.staticflickr.com/2831/11218954425_db951f942e_b.jpg
+23,1670,london,1,http://farm4.staticflickr.com/3781/11218955885_410015de83_b.jpg
+24,1670,london,1,http://farm3.staticflickr.com/2854/11219072963_55316c19b3_b.jpg
+25,1670,london,1,http://farm3.staticflickr.com/2868/11218969986_60e11df213_b.jpg
+26,1670,london,1,http://farm8.staticflickr.com/7344/11219074433_24a190d435_b.jpg
+27,1670,london,1,http://farm3.staticflickr.com/2883/11218958345_97434fbaba_b.jpg
+28,1670,london,1,http://farm3.staticflickr.com/2862/11219075073_dd3b5f359e_b.jpg
+29,1680,london,1,http://farm8.staticflickr.com/7329/11218964894_2ed1090eef_b.jpg
+30,1680,london,1,http://farm4.staticflickr.com/3698/11219081193_4162610f45_b.jpg
+31,1680,london,1,http://farm8.staticflickr.com/7407/11218960424_e17b9987ee_b.jpg
+32,1680,london,1,http://farm3.staticflickr.com/2869/11218959925_bd281aaef2_b.jpg
+33,1680,london,1,http://farm3.staticflickr.com/2848/11219080603_fdaa761bde_b.jpg
+34,1680,london,1,http://farm3.staticflickr.com/2885/11218964214_06aeb636f7_b.jpg
+35,1680,london,1,http://farm3.staticflickr.com/2867/11218963394_9f6af2f984_b.jpg
+36,1680,london,1,http://farm6.staticflickr.com/5538/11218976746_b0b2dcbbe6_b.jpg
+37,1680,london,1,http://farm3.staticflickr.com/2820/11218965305_2a52226197_b.jpg
+38,1680,london,1,http://farm4.staticflickr.com/3771/11218962345_41f2bf0ae6_b.jpg
+39,1680,london,1,http://farm3.staticflickr.com/2855/11218964314_1c229549d2_b.jpg
+40,1680,london,1,http://farm4.staticflickr.com/3818/11218976256_011cff8556_b.jpg
+41,1680,london,1,http://farm4.staticflickr.com/3668/11218961005_b33ff368bd_b.jpg
+42,1680,london,1,http://farm6.staticflickr.com/5536/11218961575_f890c37d85_b.jpg
+43,1680,london,1,http://farm6.staticflickr.com/5539/11218963294_3f02f8687b_b.jpg
+44,1680,london,1,http://farm4.staticflickr.com/3672/11218959125_b4041660a4_b.jpg
+45,1690,london,1,http://farm8.staticflickr.com/7427/11172838573_7a240e6d42_b.jpg
+46,1690,london,1,http://farm4.staticflickr.com/3700/11219082003_d1a974e77c_b.jpg
+47,1690,london,1,http://farm8.staticflickr.com/7385/11218967114_a2a23281a9_b.jpg
+48,1690,london,1,http://farm4.staticflickr.com/3677/11218967395_f62d89a92c_b.jpg
+49,1690,london,1,http://farm6.staticflickr.com/5542/11219082333_f4287dea3f_b.jpg
+50,1690,london,1,http://farm8.staticflickr.com/7460/11218966405_04441b262e_b.jpg
+51,1690,london,1,http://farm4.staticflickr.com/3711/11218968155_2ac6664389_b.jpg
+52,1700,london,1,http://farm4.staticflickr.com/3772/11218968984_5a29a36aca_b.jpg
+53,1700,london,1,http://farm6.staticflickr.com/5500/11219084383_49184ec337_b.jpg
+54,1700,london,1,http://farm8.staticflickr.com/7360/11218969145_69a616579e_b.jpg
+55,1710,london,1,http://farm8.staticflickr.com/7299/11219086973_09e5a4d128_b.jpg
+56,1710,bernard lintott,1,http://farm4.staticflickr.com/3693/11218985196_64b7b3c65a_b.jpg
+57,1710,london,1,http://farm8.staticflickr.com/7327/11218987566_13e1ec18f9_b.jpg
+58,1710,london,1,http://farm4.staticflickr.com/3753/11218972554_46424ccc85_b.jpg
+59,1710,london,1,http://farm8.staticflickr.com/7397/11218971414_eb985f73b3_b.jpg
+60,1710,london,1,http://farm6.staticflickr.com/5497/11218973314_9f7fa15617_b.jpg
+61,1710,london,1,http://farm8.staticflickr.com/7341/11219087653_1ec1dab6be_b.jpg
+62,1710,bernard lintott,1,http://farm4.staticflickr.com/3763/11219085923_569f4799db_b.jpg
+63,1710,london,1,http://farm6.staticflickr.com/5508/11218973795_3abc174191_b.jpg
+64,1710,london,1,http://farm4.staticflickr.com/3781/11218974905_feefacdb02_b.jpg
+65,1720,london,1,http://farm4.staticflickr.com/3806/11219116863_d994d7935b_b.jpg
+66,1720,london,1,http://farm6.staticflickr.com/5473/11219013025_47befe6809_b.jpg
+67,1720,london,1,http://farm6.staticflickr.com/5494/11219008124_4f819ee392_b.jpg
+68,1720,london,1,http://farm4.staticflickr.com/3720/11219032994_21c0d7b71e_b.jpg
+69,1720,london,1,http://farm6.staticflickr.com/5526/11172708386_7cd3804ba2_b.jpg
+70,1720,london,1,http://farm4.staticflickr.com/3793/11219007054_084680aa69_b.jpg
+71,1720,london,1,http://farm8.staticflickr.com/7355/11172851503_50fbac092f_b.jpg
+72,1720,london,1,http://farm6.staticflickr.com/5494/11219141473_b76af5c13b_b.jpg
+73,1720,london,1,http://farm8.staticflickr.com/7419/11218987465_8cd69aa5c5_b.jpg
+74,1720,london,1,http://farm6.staticflickr.com/5546/11219113533_74cd8520ed_b.jpg
+75,1720,london,1,http://farm3.staticflickr.com/2875/11292812163_c0d26c7551_b.jpg
+76,1720,london,1,http://farm4.staticflickr.com/3770/11219010096_d0a471d51f_b.jpg
+77,1720,london,1,http://farm3.staticflickr.com/2835/11172651645_d8e011c90c_b.jpg
+78,1720,london,1,http://farm6.staticflickr.com/5505/11218997854_f0d0842b21_b.jpg
+79,1720,london,1,http://farm4.staticflickr.com/3803/11218980664_127845e77f_b.jpg
+80,1720,london,1,http://farm3.staticflickr.com/2880/11219021525_3c6a695d3a_b.jpg
+81,1720,london,1,http://farm6.staticflickr.com/5495/11172712924_b4b30b8e8f_b.jpg
+82,1720,london,1,http://farm4.staticflickr.com/3758/11219015515_a27b7d90b6_b.jpg
+83,1720,london,1,http://farm6.staticflickr.com/5525/11219030036_87bc12cd08_b.jpg
+84,1720,london,1,http://farm4.staticflickr.com/3770/11219033265_4132073006_b.jpg
+85,1720,london,1,http://farm4.staticflickr.com/3701/11218978094_117598bb7a_b.jpg
+86,1720,london,1,http://farm4.staticflickr.com/3807/11172863603_0504ea58c1_b.jpg
+87,1720,london,1,http://farm4.staticflickr.com/3814/11219142563_334845fb33_b.jpg
+88,1720,london,1,http://farm4.staticflickr.com/3702/11219017566_646060cffc_b.jpg
+89,1720,london,1,http://farm6.staticflickr.com/5499/11219010636_f945514c7d_b.jpg
+90,1730,london,1,http://farm3.staticflickr.com/2819/11219063056_08aa46d384_b.jpg
+91,1730,london,1,http://farm6.staticflickr.com/5503/11219183483_dd0425cef6_b.jpg
+92,1730,london,1,http://farm8.staticflickr.com/7420/11219055955_63176c5b64_b.jpg
+93,1730,london,1,http://farm8.staticflickr.com/7458/11219060255_299a6bfdf6_b.jpg
+94,1730,"london, reprinted",1,http://farm6.staticflickr.com/5490/11219065525_022c52f3e4_b.jpg
+95,1730,london,1,http://farm6.staticflickr.com/5531/11046511325_79dcd1e269_b.jpg
+96,1730,london,1,http://farm4.staticflickr.com/3672/11219186723_faed56bed0_b.jpg
+97,1730,westminster,1,http://farm4.staticflickr.com/3715/11219051336_579417e557_b.jpg
+98,1730,london,1,http://farm3.staticflickr.com/2827/11219065874_cdf1757ea7_b.jpg
+99,1730,london,1,http://farm8.staticflickr.com/7419/11219067895_4a0bbfe6c1_b.jpg
+100,1730,london,1,http://farm8.staticflickr.com/7433/11219065416_45864f10f2_b.jpg
+101,1730,london,1,http://farm4.staticflickr.com/3729/11219040905_c5ff3cd104_b.jpg
+102,1730,london,1,http://farm8.staticflickr.com/7455/11219044644_317bbde232_b.jpg
+103,1730,london,1,http://farm8.staticflickr.com/7398/11219070186_6386a542c8_b.jpg
+104,1730,london,1,http://farm4.staticflickr.com/3725/11219043264_5e7b7efa90_b.jpg
+105,1730,london,1,http://farm4.staticflickr.com/3753/11219038834_0fd5b6b0e1_b.jpg
+106,1730,london,1,http://farm4.staticflickr.com/3725/11219038565_7b647563ba_b.jpg
+107,1730,london,1,http://farm4.staticflickr.com/3754/11219168503_e8303eab1d_b.jpg
+108,1730,london,1,http://farm4.staticflickr.com/3693/11219068105_9e7d6fc087_b.jpg
+109,1730,london,1,http://farm8.staticflickr.com/7354/11219058604_79edf692be_b.jpg
+110,1730,london,1,http://farm3.staticflickr.com/2892/11219157223_10ddaacdd1_b.jpg
+111,1730,london,1,http://farm4.staticflickr.com/3761/11219084796_3b76f40c12_b.jpg
+112,1730,london,1,http://farm6.staticflickr.com/5517/11219050965_e0155c128d_b.jpg
+113,1730,london,1,http://farm4.staticflickr.com/3715/11219184333_dd9c8f4588_b.jpg
+114,1730,london,1,http://farm6.staticflickr.com/5480/11219079036_48598cdd3e_b.jpg
+115,1740,london,1,http://farm8.staticflickr.com/7387/11219191073_26488fd0d1_b.jpg
+116,1740,london,1,http://farm8.staticflickr.com/7405/11219072755_fb0fed5bf0_b.jpg
+117,1740,london,1,http://farm4.staticflickr.com/3781/11219192723_6c99fa4178_b.jpg
+118,1740,london,1,http://farm8.staticflickr.com/7451/11219094226_d5d2c06ab4_b.jpg
+119,1740,london,1,http://farm4.staticflickr.com/3708/11219201873_f571f02f8f_b.jpg
+120,1740,london,1,http://farm3.staticflickr.com/2861/11219102846_8ec73a883e_b.jpg
+121,1740,dublin,1,http://farm4.staticflickr.com/3831/10999235224_a53c844973_b.jpg
+122,1740,london,1,http://farm8.staticflickr.com/7392/11219093785_27025d4e83_b.jpg
+123,1740,london,1,http://farm8.staticflickr.com/7311/11219093705_85c08952c3_b.jpg
+124,1740,london,1,http://farm3.staticflickr.com/2826/11219072454_12de1e1ec2_b.jpg
+125,1740,oxonii,1,http://farm8.staticflickr.com/7425/11047037764_fa05c60808_b.jpg
+126,1740,london,1,http://farm4.staticflickr.com/3726/11219074404_815884ea71_b.jpg
+127,1740,london,1,http://farm4.staticflickr.com/3693/11219075904_266cc2143c_b.jpg
+128,1740,london,1,http://farm4.staticflickr.com/3738/11219188803_086a8f8af8_b.jpg
+129,1740,london,1,http://farm6.staticflickr.com/5532/11219203703_c41f388f15_b.jpg
+130,1740,london,1,http://farm8.staticflickr.com/7392/11219092165_6dfc1981e3_b.jpg
+131,1740,london,1,http://farm6.staticflickr.com/5518/11219200793_f8cecf87bd_b.jpg
+132,1740,london,1,http://farm3.staticflickr.com/2813/11219095834_c182b05c81_b.jpg
+133,1740,london,1,http://farm6.staticflickr.com/5484/11219191003_58fee35ee1_b.jpg
+134,1740,london,1,http://farm3.staticflickr.com/2819/11219084854_86048fd7ac_b.jpg
+135,1740,london,1,http://farm8.staticflickr.com/7329/11219196723_0cc87967dd_b.jpg
+136,1740,london,1,http://farm6.staticflickr.com/5546/11219096664_aa24c40c5c_b.jpg
+137,1740,london,1,http://farm3.staticflickr.com/2868/11219203953_e236b78ec0_b.jpg
+138,1740,london,1,http://farm3.staticflickr.com/2855/11219214883_ccba043b63_b.jpg
+139,1740,london,1,http://farm8.staticflickr.com/7354/11219077784_4e9cd3fc77_b.jpg
+140,1750,london,1,http://farm4.staticflickr.com/3778/11219100544_56b5e0dfe4_b.jpg
+141,1750,london,1,http://farm4.staticflickr.com/3692/11219110355_b099b4deb4_b.jpg
+142,1750,london,1,http://farm6.staticflickr.com/5503/11219118886_46c85bbba8_b.jpg
+143,1750,london,1,http://farm4.staticflickr.com/3697/11219103414_547cec0289_b.jpg
+144,1750,t. carnan,1,http://farm4.staticflickr.com/3686/11219124646_bf5fbe97c0_b.jpg
+145,1750,london,1,http://farm4.staticflickr.com/3707/11219109365_146f26fb7e_b.jpg
+146,1750,dublin,1,http://farm4.staticflickr.com/3789/10999584553_9230b1a8b6_b.jpg
+147,1750,oxford,1,http://farm4.staticflickr.com/3691/11219123776_334a6207e3_b.jpg
+148,1750,london,1,http://farm4.staticflickr.com/3740/11219217203_cfde8ed287_b.jpg
+149,1750,london,1,http://farm8.staticflickr.com/7364/11219099484_318c81ba97_b.jpg
+150,1750,london,1,http://farm4.staticflickr.com/3726/11219218053_171e33f1ee_b.jpg
+151,1750,london,1,http://farm6.staticflickr.com/5505/11219110765_afeb3dda6f_b.jpg
+152,1750,london,1,http://farm3.staticflickr.com/2848/11219102245_a1cde03c0e_b.jpg
+153,1750,london,1,http://farm4.staticflickr.com/3668/11219103925_a57289e9b6_b.jpg
+154,1750,london,1,http://farm4.staticflickr.com/3700/11219226503_d15156ed13_b.jpg
+155,1750,dublin,1,http://farm8.staticflickr.com/7352/11046695773_730f04830d_b.jpg
+156,1750,london,1,http://farm4.staticflickr.com/3686/11219229253_44a6c59058_b.jpg
+157,1750,london,1,http://farm6.staticflickr.com/5475/11219100984_12d39c1591_b.jpg
+158,1750,london,1,http://farm8.staticflickr.com/7305/11219106504_e38f74e6c6_b.jpg
+159,1750,london,1,http://farm4.staticflickr.com/3768/11219102834_36b15a2aee_b.jpg
+160,1750,london,1,http://farm4.staticflickr.com/3829/11219102344_ae68974c42_b.jpg
+161,1750,london,1,http://farm3.staticflickr.com/2811/11219112214_3d40d8232d_b.jpg
+162,1750,london,1,http://farm4.staticflickr.com/3719/11219101524_55542e2336_b.jpg
+163,1750,london,1,http://farm6.staticflickr.com/5516/11219107444_6baa5770a3_b.jpg
+164,1750,dublin,1,http://farm6.staticflickr.com/5539/11046638064_42ef6dff71_b.jpg
+165,1760,london,1,http://farm6.staticflickr.com/5543/11219130906_78d5c37a0e_b.jpg
+166,1760,london,1,http://farm6.staticflickr.com/5478/11219132435_e7f72470ab_b.jpg
+167,1760,london,1,http://farm4.staticflickr.com/3713/11219132296_d358c910e6_b.jpg
+168,1760,j. & r. tonson,1,http://farm3.staticflickr.com/2880/11219120785_52b3f0fd67_b.jpg
+169,1760,london,1,http://farm6.staticflickr.com/5525/11219115844_4ccd901d5b_b.jpg
+170,1760,durham,1,http://farm6.staticflickr.com/5548/11219119895_ee5f6121e2_b.jpg
+171,1760,london,1,http://farm6.staticflickr.com/5513/11219145466_6c81346945_b.jpg
+172,1760,unknown,1,http://farm8.staticflickr.com/7325/11219128716_2e67a4ab7f_b.jpg
+173,1760,london,1,http://farm3.staticflickr.com/2818/11219119064_051f698727_b.jpg
+174,1760,j. & r. tonson,1,http://farm6.staticflickr.com/5519/11219122734_d96706e093_b.jpg
+175,1760,london,1,http://farm4.staticflickr.com/3746/11219132585_eb20202028_b.jpg
+176,1760,london],1,http://farm6.staticflickr.com/5476/11219123685_4fddf533c5_b.jpg
+177,1760,cambridge,1,http://farm4.staticflickr.com/3692/11219127906_b0a989eb9e_b.jpg
+178,1760,j. & r. tonson,1,http://farm3.staticflickr.com/2888/11219121615_026c7f0377_b.jpg
+179,1760,london,1,http://farm6.staticflickr.com/5535/11219246873_2b3693052d_b.jpg
+180,1760,york,1,http://farm6.staticflickr.com/5475/11219244203_2db361853b_b.jpg
+181,1760,london,1,http://farm8.staticflickr.com/7318/11219132554_c0275a2189_b.jpg
+182,1760,london,1,http://farm6.staticflickr.com/5546/11219147116_80ee7e2e38_b.jpg
+183,1760,london,1,http://farm3.staticflickr.com/2869/11219128904_386cb251f9_b.jpg
+184,1760,london,1,http://farm6.staticflickr.com/5490/11219130804_01f5f17483_b.jpg
+185,1760,london,1,http://farm8.staticflickr.com/7310/11219128845_33ec12c86d_b.jpg
+186,1760,london,1,http://farm4.staticflickr.com/3807/11219131566_66af77b201_b.jpg
+187,1760,london],1,http://farm8.staticflickr.com/7329/11219240923_1a43503182_b.jpg
+188,1760,j. & r. tonson,1,http://farm3.staticflickr.com/2808/11219123204_9c99d3a2f2_b.jpg
+189,1760,london,1,http://farm8.staticflickr.com/7424/11219118985_52bbca0e41_b.jpg
+190,1770,london,1,http://farm3.staticflickr.com/2867/11219134544_4a0e18728d_b.jpg
+191,1770,london,1,http://farm4.staticflickr.com/3710/11219141525_57d846af59_b.jpg
+192,1770,w. griffin,1,http://farm3.staticflickr.com/2826/11219155866_b84d85267b_b.jpg
+193,1770,geneve,1,http://farm3.staticflickr.com/2892/11219154356_c5d4ee74ab_b.jpg
+194,1770,london,1,http://farm3.staticflickr.com/2862/11219133065_b420a62c07_b.jpg
+195,1770,geneve,1,http://farm4.staticflickr.com/3785/11219137174_98e9b6dda3_b.jpg
+196,1770,london,1,http://farm4.staticflickr.com/3676/11219149826_ebf83d2651_b.jpg
+197,1770,london,1,http://farm6.staticflickr.com/5505/11219148275_2b9c52daab_b.jpg
+198,1770,geneve,1,http://farm8.staticflickr.com/7364/11219152086_ea5362e683_b.jpg
+199,1770,london,1,http://farm4.staticflickr.com/3690/11219157716_352baee606_b.jpg
+200,1770,altenburgh,1,http://farm3.staticflickr.com/2862/11219146264_9402a475fc_b.jpg
+201,1770,london,1,http://farm3.staticflickr.com/2864/11219137365_0b5f5f1f1e_b.jpg
+202,1770,altenburgh,1,http://farm6.staticflickr.com/5528/11219144915_d22f6c93d0_b.jpg
+203,1770,dublin,1,http://farm3.staticflickr.com/2870/11219157886_f7f29c5fcd_b.jpg
+204,1770,london,1,http://farm8.staticflickr.com/7402/11219149966_8694620b6e_b.jpg
+205,1770,unknown,1,http://farm4.staticflickr.com/3761/11219143325_8399ea4b47_b.jpg
+206,1770,london,1,http://farm6.staticflickr.com/5535/11219137204_23b21e70f4_b.jpg
+207,1770,geneve,1,http://farm4.staticflickr.com/3808/11219140195_72d2f7ebb5_b.jpg
+208,1770,london,1,http://farm3.staticflickr.com/2824/11219265383_31fbd31e90_b.jpg
+209,1770,london,1,http://farm4.staticflickr.com/3780/11219159986_dbe3aa2b67_b.jpg
+210,1770,london,1,http://farm4.staticflickr.com/3758/11219146745_aa1308213a_b.jpg
+211,1770,geneve,1,http://farm8.staticflickr.com/7324/11219254533_8700fef695_b.jpg
+212,1770,london,1,http://farm6.staticflickr.com/5505/11219156786_3a3ce73321_b.jpg
+213,1770,london,1,http://farm4.staticflickr.com/3674/11219148616_3367afdfde_b.jpg
+214,1770,geneve,1,http://farm8.staticflickr.com/7318/11219139634_2eb72c0c85_b.jpg
+215,1780,dublin,1,http://farm4.staticflickr.com/3678/11219276153_b14de5ba01_b.jpg
+216,1780,dublin,1,http://farm4.staticflickr.com/3713/11219167726_e9074b5c69_b.jpg
+217,1780,dublin,1,http://farm6.staticflickr.com/5483/11219155775_8220778c93_b.jpg
+218,1780,j. johnson,1,http://farm3.staticflickr.com/2854/11219289663_dcc3a3778c_b.jpg
+219,1780,"london,]",1,http://farm6.staticflickr.com/5510/11219154624_08ff8266ef_b.jpg
+220,1780,"newcastle-upon-tyne, gateshead, north shields, etc",1,http://farm4.staticflickr.com/3709/11219281923_a16386b1e6_b.jpg
+221,1780,london,1,http://farm4.staticflickr.com/3770/11219169895_ce93ec115a_b.jpg
+222,1780,paris,1,http://farm6.staticflickr.com/5480/11219150394_731db2ae60_b.jpg
+223,1780,"newcastle-upon-tyne, gateshead, north shields, etc",1,http://farm8.staticflickr.com/7373/11219280753_bc8ee1b0f5_b.jpg
+224,1780,london,1,http://farm8.staticflickr.com/7340/11219149875_52a1c63b08_b.jpg
+225,1780,dublin,1,http://farm4.staticflickr.com/3788/11219155915_e494ea10ba_b.jpg
+226,1780,london,1,http://farm6.staticflickr.com/5540/11219285163_5ef3d2b092_b.jpg
+227,1780,london,1,http://farm4.staticflickr.com/3700/11219282773_24477baf84_b.jpg
+228,1780,northampton,1,http://farm8.staticflickr.com/7314/11219175416_354465368c_b.jpg
+229,1780,j. johnson,1,http://farm6.staticflickr.com/5481/11219175144_2c8e7888f0_b.jpg
+230,1780,dublin,1,http://farm6.staticflickr.com/5493/11219158465_2b3fde4a43_b.jpg
+231,1780,bathoni,1,http://farm4.staticflickr.com/3746/11219152124_f769f5b3bc_b.jpg
+232,1780,harrison & co,1,http://farm4.staticflickr.com/3699/11219179186_1bb423581a_b.jpg
+233,1780,j. johnson,1,http://farm3.staticflickr.com/2846/11219181806_d1d7ea2aa9_b.jpg
+234,1780,paris,1,http://farm6.staticflickr.com/5531/11219151415_d9684ee5df_b.jpg
+235,1780,w. griffin,1,http://farm6.staticflickr.com/5513/11219162386_97067c9379_b.jpg
+236,1780,london,1,http://farm4.staticflickr.com/3768/11219170355_0ef436a403_b.jpg
+237,1780,"london,]",1,http://farm3.staticflickr.com/2833/11219158554_5818b922df_b.jpg
+238,1780,"newcastle-upon-tyne, gateshead, north shields, etc",1,http://farm4.staticflickr.com/3773/11219163865_ac121b6aed_b.jpg
+239,1780,dublin,1,http://farm3.staticflickr.com/2850/11219168486_bf1cc2e0c7_b.jpg
+240,1790,london,1,http://farm4.staticflickr.com/3690/11219190055_d71c3b7396_b.jpg
+241,1790,calcutta,1,http://farm8.staticflickr.com/7316/11219190414_3bbccd626d_b.jpg
+242,1790,london,1,http://farm6.staticflickr.com/5541/11219182535_acece082a9_b.jpg
+243,1790,dublin,1,http://farm8.staticflickr.com/7339/11219193315_903a1de0e7_b.jpg
+244,1790,london,1,http://farm6.staticflickr.com/5544/11047006606_caf387a248_b.jpg
+245,1790,edinburgh,1,http://farm6.staticflickr.com/5508/11219310953_69332a2e0e_b.jpg
+246,1790,london,1,http://farm4.staticflickr.com/3729/11219193136_ab30bb1734_b.jpg
+247,1790,"poincot, paris,] 1788-93",1,http://farm3.staticflickr.com/2876/11047005166_7f617811af_b.jpg
+248,1790,london,1,http://farm8.staticflickr.com/7381/11219185525_301328b86d_b.jpg
+249,1790,london],1,http://farm4.staticflickr.com/3803/11219191336_d2c62b62a1_b.jpg
+250,1790,"poincot, paris,] 1788-93",1,http://farm4.staticflickr.com/3778/11219300323_2359d12e04_b.jpg
+251,1790,"london,]",1,http://farm4.staticflickr.com/3797/11219198216_9e1d2987cf_b.jpg
+252,1790,london,1,http://farm3.staticflickr.com/2808/11219191864_f0d247ca50_b.jpg
+253,1790,london,1,http://farm6.staticflickr.com/5485/11219294673_6c5812e245_b.jpg
+254,1790,london,1,http://farm3.staticflickr.com/2850/11219176484_0783a13fbc_b.jpg
+255,1790,"poincot, paris,] 1788-93",1,http://farm6.staticflickr.com/5519/11219181704_51e8d3dd7d_b.jpg
+256,1790,"poincot, paris,] 1788-93",1,http://farm4.staticflickr.com/3794/11219181965_c4256c8c6c_b.jpg
+257,1790,london,1,http://farm6.staticflickr.com/5480/11219202396_7f2653ca97_b.jpg
+258,1790,london,1,http://farm6.staticflickr.com/5540/11219201716_4afdcee201_b.jpg
+259,1790,london,1,http://farm6.staticflickr.com/5520/11219193155_e96ae94451_b.jpg
+260,1790,london,1,http://farm3.staticflickr.com/2857/11000575576_af505262ac_b.jpg
+261,1790,"poincot, paris,] 1788-93",1,http://farm6.staticflickr.com/5536/11219303213_731e95f2a6_b.jpg
+262,1790,london,1,http://farm4.staticflickr.com/3823/11219175335_cbc42960a2_b.jpg
+263,1790,london,1,http://farm4.staticflickr.com/3786/11219196344_8de571eb1e_b.jpg
+264,1790,london,1,http://farm6.staticflickr.com/5472/11219192595_06a4f19eb5_b.jpg
+265,1800,dublin,1,http://farm4.staticflickr.com/3756/11219260246_473bb27fbd_b.jpg
+266,1800,chicago,1,http://farm6.staticflickr.com/5509/11219314994_edceaee6fc_b.jpg
+267,1800,london,1,http://farm6.staticflickr.com/5478/11219465265_e993ed0918_b.jpg
+268,1800,chicago,1,http://farm8.staticflickr.com/7347/11219275775_46721e2ce0_b.jpg
+269,1800,london,1,http://farm6.staticflickr.com/5526/11219544245_0ea55fdce5_b.jpg
+270,1800,london,1,http://farm8.staticflickr.com/7337/11219239596_a514ede911_b.jpg
+271,1800,london,1,http://farm8.staticflickr.com/7395/11219629595_6d26e2b999_b.jpg
+272,1800,london,1,http://farm3.staticflickr.com/2855/11219611506_ce4a8974dc_b.jpg
+273,1800,chicago,1,http://farm4.staticflickr.com/3708/11219254914_56c76d8f9b_b.jpg
+274,1800,bristol,1,http://farm4.staticflickr.com/3713/11219379974_55f2ab9ce0_b.jpg
+275,1800,london,1,http://farm8.staticflickr.com/7444/11219604756_dbc4e27474_b.jpg
+276,1800,chicago,1,http://farm8.staticflickr.com/7441/11219322225_34c85a44db_b.jpg
+277,1800,chicago,1,http://farm4.staticflickr.com/3809/11219393533_034bd5afb5_b.jpg
+278,1800,london,1,http://farm8.staticflickr.com/7428/11219609033_3fe4303de3_b.jpg
+279,1800,chicago,1,http://farm6.staticflickr.com/5515/11219438674_c48980bf1f_b.jpg
+280,1800,chicago,1,http://farm4.staticflickr.com/3755/11219444536_04b40d8aa9_b.jpg
+281,1800,paris,1,http://farm4.staticflickr.com/3681/11219470574_16eec52d4e_b.jpg
+282,1800,chicago,1,http://farm8.staticflickr.com/7409/11219304334_67012573ec_b.jpg
+283,1800,new york,1,http://farm4.staticflickr.com/3718/11219246514_74b8137ae9_b.jpg
+284,1800,london,1,http://farm6.staticflickr.com/5533/11219196584_8c51121572_b.jpg
+285,1800,chicago,1,http://farm4.staticflickr.com/3709/11219502593_66330d4f1a_b.jpg
+286,1800,chicago,1,http://farm8.staticflickr.com/7343/11219271074_482647b0f2_b.jpg
+287,1800,paris,1,http://farm3.staticflickr.com/2836/11219464446_21a09bf8e4_b.jpg
+288,1800,london,1,http://farm4.staticflickr.com/3693/11219509985_71bec51890_b.jpg
+289,1800,london,1,http://farm8.staticflickr.com/7383/11219622863_e81673d238_b.jpg
+290,1810,edinburgh,1,http://farm4.staticflickr.com/3718/11219921974_819a6fa41d_b.jpg
+291,1810,london,1,http://farm3.staticflickr.com/2889/11220081803_aa5e4400ac_b.jpg
+292,1810,london,1,http://farm8.staticflickr.com/7333/11219900534_851ee43f19_b.jpg
+293,1810,edinburgh,1,http://farm8.staticflickr.com/7313/11219876905_0e2bc6dd65_b.jpg
+294,1810,london,1,http://farm4.staticflickr.com/3808/11219754786_035d482ea6_b.jpg
+295,1810,london,1,http://farm6.staticflickr.com/5485/11219856133_bc28e06537_b.jpg
+296,1810,london,1,http://farm8.staticflickr.com/7419/11220072053_70dc7129d1_b.jpg
+297,1810,edinburgh,1,http://farm3.staticflickr.com/2859/11219946155_58e92ec0af_b.jpg
+298,1810,westminster,1,http://farm6.staticflickr.com/5505/11219800605_e34c3db369_b.jpg
+299,1810,enk,1,http://farm6.staticflickr.com/5483/11219836673_f17719d60f_b.jpg
+300,1810,london,1,http://farm3.staticflickr.com/2871/11219931653_d3c05b51b2_b.jpg
+301,1810,london,1,http://farm3.staticflickr.com/2832/11219864935_1a27039a9b_b.jpg
+302,1810,london,1,http://farm4.staticflickr.com/3730/11219853045_56e8f319f5_b.jpg
+303,1810,enk,1,http://farm4.staticflickr.com/3736/11219864354_735d865027_b.jpg
+304,1810,london,1,http://farm6.staticflickr.com/5478/11219810564_012d3c2780_b.jpg
+305,1810,london,1,http://farm4.staticflickr.com/3757/11219738126_00fd201f3e_b.jpg
+306,1810,london,1,http://farm8.staticflickr.com/7441/11219945746_9120482cc1_b.jpg
+307,1810,philadelphia,1,http://farm4.staticflickr.com/3682/11219919915_5438de3d2c_b.jpg
+308,1810,enk,1,http://farm8.staticflickr.com/7347/11219709354_9f3e140642_b.jpg
+309,1810,london,1,http://farm4.staticflickr.com/3792/11219791324_9d2eca89ed_b.jpg
+310,1810,london,1,http://farm6.staticflickr.com/5534/11219770645_e06de3f09a_b.jpg
+311,1810,london,1,http://farm8.staticflickr.com/7341/11219811594_df9eb12827_b.jpg
+312,1810,london,1,http://farm8.staticflickr.com/7348/11219956014_2985119aeb_b.jpg
+313,1810,london,1,http://farm3.staticflickr.com/2836/11220101253_be4676777c_b.jpg
+314,1810,london,1,http://farm6.staticflickr.com/5512/11219809574_4b1c0bc5b0_b.jpg
+315,1820,stockholm,1,http://farm8.staticflickr.com/7434/11006291753_b0df0d7fc9_b.jpg
+316,1820,verona,1,http://farm3.staticflickr.com/2838/11006408834_afd9e5d7aa_b.jpg
+317,1820,london,1,http://farm8.staticflickr.com/7458/11221150795_a97bb3d420_b.jpg
+318,1820,london,1,http://farm4.staticflickr.com/3773/11220011995_7e02abef2f_b.jpg
+319,1820,london,1,http://farm8.staticflickr.com/7445/11220111775_6b4f6c1124_b.jpg
+320,1820,london,1,http://farm4.staticflickr.com/3730/11006258714_4576bed11c_b.jpg
+321,1820,strasburg,1,http://farm4.staticflickr.com/3776/11006488743_e3de223b50_b.jpg
+322,1820,london,1,http://farm8.staticflickr.com/7404/11220296644_d4f6ccf55d_b.jpg
+323,1820,london,1,http://farm3.staticflickr.com/2818/11220817786_f4c041e0d0_b.jpg
+324,1820,boston [mass.],1,http://farm8.staticflickr.com/7426/11006252356_c479eb84c0_b.jpg
+325,1820,portsea,1,http://farm6.staticflickr.com/5486/11006397746_a91e08d73d_b.jpg
+326,1820,london,1,http://farm8.staticflickr.com/7383/11221236583_37b0bc0585_b.jpg
+327,1820,london,1,http://farm6.staticflickr.com/5479/11220561363_78101a97e2_b.jpg
+328,1820,london,1,http://farm6.staticflickr.com/5504/11220132774_237c7cb1a0_b.jpg
+329,1820,coventry,1,http://farm4.staticflickr.com/3701/11006411643_e81e5cc3d8_b.jpg
+330,1820,london,1,http://farm6.staticflickr.com/5521/11221161264_f9919f20e6_b.jpg
+331,1820,london,1,http://farm4.staticflickr.com/3671/11220639533_a9be5f0f2e_b.jpg
+332,1820,london,1,http://farm4.staticflickr.com/3770/11220298505_0db271d917_b.jpg
+333,1820,london,1,http://farm6.staticflickr.com/5534/11220733305_0242deabef_b.jpg
+334,1820,london,1,http://farm6.staticflickr.com/5502/11006026985_ff0541da8c_b.jpg
+335,1820,london,1,http://farm6.staticflickr.com/5509/11220103765_38f27fcec7_b.jpg
+336,1820,london,1,http://farm8.staticflickr.com/7342/11220710464_7e259a3030_b.jpg
+337,1820,coventry,1,http://farm3.staticflickr.com/2858/11006397324_712d13ddab_b.jpg
+338,1820,london,1,http://farm8.staticflickr.com/7309/11220481243_b1200c024b_b.jpg
+339,1820,london,1,http://farm8.staticflickr.com/7345/11006357364_ebfc17de9a_b.jpg
+340,1830,sheffield,2,http://farm4.staticflickr.com/3702/11006564134_fbdaaae11d_b.jpg
+341,1830,sheffield,2,http://farm4.staticflickr.com/3702/11006564134_fbdaaae11d_b.jpg
+342,1830,amsterdam,2,http://farm4.staticflickr.com/3685/11003470206_012b6cecb3_b.jpg
+343,1830,amsterdam,2,http://farm4.staticflickr.com/3685/11003470206_012b6cecb3_b.jpg
+344,1830,london,1,http://farm8.staticflickr.com/7317/11221407845_da2e155090_b.jpg
+345,1830,ipswich,1,http://farm4.staticflickr.com/3666/11006887194_065291b2eb_b.jpg
+346,1830,paris,1,http://farm4.staticflickr.com/3776/11009209016_61569a93f0_b.jpg
+347,1830,sevilla,1,http://farm8.staticflickr.com/7456/11006809245_6e3c597243_b.jpg
+348,1830,paris,1,http://farm4.staticflickr.com/3755/11008985034_ea9f2edb6d_b.jpg
+349,1830,glasgow,1,http://farm4.staticflickr.com/3776/11007363693_4378f15e57_b.jpg
+350,1830,london,1,http://farm6.staticflickr.com/5501/11007864724_9346c8f2d9_b.jpg
+351,1830,paris,1,http://farm6.staticflickr.com/5490/11222072913_eda5e3b72a_b.jpg
+352,1830,paris,1,http://farm3.staticflickr.com/2857/11007786654_a00a7e4b74_b.jpg
+353,1830,london,1,http://farm8.staticflickr.com/7294/11010276216_402bb8e598_b.jpg
+354,1830,pesth,1,http://farm8.staticflickr.com/7380/11007424136_71500867ca_b.jpg
+355,1830,london,1,http://farm4.staticflickr.com/3744/11006647375_80eccbf28a_b.jpg
+356,1830,london,1,http://farm6.staticflickr.com/5534/11008281416_0e70cd353c_b.jpg
+357,1830,calcutta,1,http://farm4.staticflickr.com/3739/11007195584_283a76be12_b.jpg
+358,1830,london,1,http://farm8.staticflickr.com/7320/11010790403_3bf9ca3277_b.jpg
+359,1830,paris,1,http://farm8.staticflickr.com/7309/11010363174_9bf9a08011_b.jpg
+360,1830,tottenham,1,http://farm4.staticflickr.com/3814/11222244354_07930a3026_b.jpg
+361,1830,london,1,http://farm4.staticflickr.com/3805/11010024073_5e2261da84_b.jpg
+362,1830,paris,1,http://farm8.staticflickr.com/7343/11221978656_56f84bf882_b.jpg
+363,1830,london,1,http://farm3.staticflickr.com/2864/11007411224_5bec9896ee_b.jpg
+364,1830,bedford,1,http://farm6.staticflickr.com/5535/11008228844_ed78970917_b.jpg
+365,1830,edinburgh,1,http://farm3.staticflickr.com/2844/11007198355_bc49f10014_b.jpg
+366,1830,frankfurt am main,1,http://farm6.staticflickr.com/5478/11010416033_c893a3d7d0_b.jpg
+367,1840,london,2,http://farm4.staticflickr.com/3680/11006347375_b3d869a099_b.jpg
+368,1840,london,2,http://farm4.staticflickr.com/3680/11006347375_b3d869a099_b.jpg
+369,1840,london,1,http://farm8.staticflickr.com/7365/11019737906_a8209f0760_b.jpg
+370,1840,london,1,http://farm6.staticflickr.com/5473/11023839796_e483604d25_b.jpg
+371,1840,wien,1,http://farm4.staticflickr.com/3731/11006337616_ccabde45fe_b.jpg
+372,1840,london,1,http://farm6.staticflickr.com/5543/11021260426_e7bdd63fb1_b.jpg
+373,1840,amsterdam,1,http://farm3.staticflickr.com/2832/11019015204_f5b35553f3_b.jpg
+374,1840,london,1,http://farm6.staticflickr.com/5486/11023953104_fcf29a8366_b.jpg
+375,1840,amsterdam,1,http://farm8.staticflickr.com/7427/11018097656_94dd150936_b.jpg
+376,1840,wurzburg,1,http://farm4.staticflickr.com/3757/11022106596_3ab92db6bc_b.jpg
+377,1840,london,1,http://farm4.staticflickr.com/3740/11224971454_42320843bb_b.jpg
+378,1840,enk,1,http://farm8.staticflickr.com/7353/11006959215_c476ea01d8_b.jpg
+379,1840,stuttgart,1,http://farm8.staticflickr.com/7393/11222869083_00d59033d6_b.jpg
+380,1840,leipzig,1,http://farm4.staticflickr.com/3816/11022166656_4ea86b24a0_b.jpg
+381,1840,e. lloyd,1,http://farm6.staticflickr.com/5496/11222965356_402a467368_b.jpg
+382,1840,firenze,1,http://farm8.staticflickr.com/7304/11006170604_ae5a47c816_b.jpg
+383,1840,antwerpen,1,http://farm4.staticflickr.com/3696/11007767586_7bb07ee9f1_b.jpg
+384,1840,london,1,http://farm6.staticflickr.com/5545/11226419294_5458f9f33f_b.jpg
+385,1840,new york,1,http://farm4.staticflickr.com/3679/11020270664_13c5d20f93_b.jpg
+386,1840,edinburgh,1,http://farm4.staticflickr.com/3798/11013522815_1651e7056c_b.jpg
+387,1840,paderborn,1,http://farm4.staticflickr.com/3762/11022319176_f311c66536_b.jpg
+388,1840,sunderland,1,http://farm8.staticflickr.com/7326/11006856216_9874eca742_b.jpg
+389,1840,grenoble,1,http://farm4.staticflickr.com/3737/11010963145_41c2d30c89_b.jpg
+390,1840,glasgow,1,http://farm4.staticflickr.com/3787/11017999875_cd9a3492f5_b.jpg
+391,1840,boston [mass.],1,http://farm4.staticflickr.com/3752/11022267064_5c5be7ea50_b.jpg
+392,1840,e. lloyd,1,http://farm4.staticflickr.com/3742/11223224573_fa4958c4a1_b.jpg
+393,1850,london,1,http://farm6.staticflickr.com/5534/11043513654_a2599409d6_b.jpg
+394,1850,london,1,http://farm3.staticflickr.com/2888/11232249976_8ba82f87f4_b.jpg
+395,1850,calcutta,1,http://farm8.staticflickr.com/7341/11016078606_d06bdd0bc1_b.jpg
+396,1850,amsterdam,1,http://farm4.staticflickr.com/3666/11025296366_71ef36a9c5_b.jpg
+397,1850,london,1,http://farm8.staticflickr.com/7321/11229902633_e3748f61fa_b.jpg
+398,1850,bradford,1,http://farm6.staticflickr.com/5476/11008039346_6a510f63b9_b.jpg
+399,1850,london,1,http://farm8.staticflickr.com/7432/11016807954_0295c8b80e_b.jpg
+400,1850,new york,1,http://farm4.staticflickr.com/3821/11230243713_c3ea65a906_b.jpg
+401,1850,london,1,http://farm6.staticflickr.com/5512/11044490803_cac1066dc3_b.jpg
+402,1850,london,1,http://farm8.staticflickr.com/7324/11230029503_a522f17be6_b.jpg
+403,1850,philadelphia,1,http://farm6.staticflickr.com/5529/11010007085_910eef5278_b.jpg
+404,1850,london,1,http://farm8.staticflickr.com/7312/11014763643_65325d6f64_b.jpg
+405,1850,london,1,http://farm8.staticflickr.com/7302/11230028643_59aac936d6_b.jpg
+406,1850,torino,1,http://farm4.staticflickr.com/3675/11229867826_e85eab7d77_b.jpg
+407,1850,d. appleton & co,1,http://farm6.staticflickr.com/5489/11011186433_3cc8f4d100_b.jpg
+408,1850,london,1,http://farm8.staticflickr.com/7396/11043681426_fcccc0d003_b.jpg
+409,1850,london,1,http://farm4.staticflickr.com/3712/11228377954_f057740599_b.jpg
+410,1850,london,1,http://farm4.staticflickr.com/3765/11043085355_e6ccc282a3_b.jpg
+411,1850,boston,1,http://farm4.staticflickr.com/3719/11232949976_2c535d7a9e_b.jpg
+412,1850,"newark, n.j",1,http://farm8.staticflickr.com/7401/11039228645_200832cf57_b.jpg
+413,1850,gand,1,http://farm4.staticflickr.com/3769/11031619416_5661c29d1c_b.jpg
+414,1850,london,1,http://farm4.staticflickr.com/3833/11231623183_f43472216d_b.jpg
+415,1850,london,1,http://farm6.staticflickr.com/5522/11027142594_ed0975f918_b.jpg
+416,1850,london,1,http://farm3.staticflickr.com/2890/11233528773_dae63fb313_b.jpg
+417,1850,london,1,http://farm6.staticflickr.com/5480/11019074224_0b4ac8d4e4_b.jpg
+418,1860,buenos aires,2,http://farm6.staticflickr.com/5495/11026660094_fc82a54c26_b.jpg
+419,1860,buenos aires,2,http://farm6.staticflickr.com/5495/11026660094_fc82a54c26_b.jpg
+420,1860,philadelphia,2,http://farm4.staticflickr.com/3712/11026722123_0c7a1b310a_b.jpg
+421,1860,philadelphia,2,http://farm4.staticflickr.com/3712/11026722123_0c7a1b310a_b.jpg
+422,1860,london,2,http://farm4.staticflickr.com/3731/11026505865_9e32ab29c3_b.jpg
+423,1860,london,2,http://farm4.staticflickr.com/3731/11026505865_9e32ab29c3_b.jpg
+424,1860,milano,1,http://farm6.staticflickr.com/5499/11237003036_3d6857075f_b.jpg
+425,1860,"claremont, n.h",1,http://farm4.staticflickr.com/3812/11025470266_9b08f2e47b_b.jpg
+426,1860,london,1,http://farm4.staticflickr.com/3809/11032252433_d6a44145bf_b.jpg
+427,1860,wien,1,http://farm8.staticflickr.com/7444/11025980713_7dc94ec058_b.jpg
+428,1860,london,1,http://farm8.staticflickr.com/7361/11062405696_7a2539a58b_b.jpg
+429,1860,london,1,http://farm3.staticflickr.com/2815/11061446043_ea2f8d7df3_b.jpg
+430,1860,london,1,http://farm6.staticflickr.com/5490/11236354495_5493d97322_b.jpg
+431,1860,london,1,http://farm8.staticflickr.com/7308/11235181853_48859b474e_b.jpg
+432,1860,london,1,http://farm8.staticflickr.com/7418/11055819685_36b5b92136_b.jpg
+433,1860,london,1,http://farm4.staticflickr.com/3701/11056053794_5394bdcce1_b.jpg
+434,1860,london,1,http://farm6.staticflickr.com/5514/11047236523_1187074674_b.jpg
+435,1860,london; new york printed,1,http://farm4.staticflickr.com/3764/11057127745_6456515993_b.jpg
+436,1860,paris,1,http://farm4.staticflickr.com/3834/11045581256_93ff68ba43_b.jpg
+437,1860,madrid,1,http://farm4.staticflickr.com/3718/11046066593_a378fb6588_b.jpg
+438,1860,pesten,1,http://farm4.staticflickr.com/3750/11049038494_c03cde79f3_b.jpg
+439,1860,london,1,http://farm8.staticflickr.com/7310/11031291504_0dd6b426f7_b.jpg
+440,1860,paris,1,http://farm6.staticflickr.com/5541/11060753826_9892e2d993_b.jpg
+441,1860,london,1,http://farm8.staticflickr.com/7418/11235145206_d61e7e4744_b.jpg
+442,1860,london,1,http://farm8.staticflickr.com/7290/11022386216_1686afb6c5_b.jpg
+443,1860,new york,1,http://farm8.staticflickr.com/7447/11045844225_0167c8cd56_b.jpg
+444,1860,montevideo,1,http://farm4.staticflickr.com/3823/11032699836_ae4d876c10_b.jpg
+445,1860,london,1,http://farm6.staticflickr.com/5520/11060378755_2086de4283_b.jpg
+446,1870,auxerre,1,http://farm4.staticflickr.com/3737/11245427226_921740952a_b.jpg
+447,1870,william p. nimmo,1,http://farm3.staticflickr.com/2843/11058362006_99641e4d2d_b.jpg
+448,1870,"cassell, petter, & galpin",1,http://farm6.staticflickr.com/5471/11094970183_f5bb0d94c2_b.jpg
+449,1870,stuttgart,1,http://farm4.staticflickr.com/3774/11252475493_1d0090132c_b.jpg
+450,1870,london & new york,1,http://farm6.staticflickr.com/5503/11053936873_a5147aaafb_b.jpg
+451,1870,london,1,http://farm4.staticflickr.com/3673/11075984195_beea092845_b.jpg
+452,1870,london,1,http://farm3.staticflickr.com/2890/11099650636_5cce6f0f15_b.jpg
+453,1870,philadelphia,1,http://farm8.staticflickr.com/7365/11055093243_717e93d042_b.jpg
+454,1870,leipzig [printed] und heidelberg,1,http://farm6.staticflickr.com/5502/11090303614_fab3283f9b_b.jpg
+455,1870,paris,1,http://farm8.staticflickr.com/7430/11061549836_0da7e64f61_b.jpg
+456,1870,"london george routledge and sons, 1866",1,http://farm3.staticflickr.com/2875/11071473726_5efb1b1920_b.jpg
+457,1870,paris,1,http://farm4.staticflickr.com/3727/11075464815_ab653fc40f_b.jpg
+458,1870,new york,1,http://farm6.staticflickr.com/5505/11064004703_7b133f9e15_b.jpg
+459,1870,amsterdam,1,http://farm3.staticflickr.com/2874/11101784203_95b6f71af7_b.jpg
+460,1870,london,1,http://farm6.staticflickr.com/5497/11073548306_97c91b383a_b.jpg
+461,1870,london,1,http://farm8.staticflickr.com/7408/11058424515_3bbb01ef80_b.jpg
+462,1870,london,1,http://farm6.staticflickr.com/5539/11244892384_1b7e318dcb_b.jpg
+463,1870,leipzig,1,http://farm4.staticflickr.com/3697/11091551455_87410cc39f_b.jpg
+464,1870,edinburgh & london,1,http://farm6.staticflickr.com/5516/11099434455_8afff8de58_b.jpg
+465,1870,london,1,http://farm4.staticflickr.com/3686/11101428505_0f462c3101_b.jpg
+466,1870,new york,1,http://farm4.staticflickr.com/3793/11249912286_33cca0b48c_b.jpg
+467,1870,london & new york,1,http://farm8.staticflickr.com/7303/11105854014_35c8238721_b.jpg
+468,1870,le mans,1,http://farm3.staticflickr.com/2828/11095234663_982eaf8eac_b.jpg
+469,1870,quebec,1,http://farm4.staticflickr.com/3728/11058967013_769802e8a2_b.jpg
+470,1870,paris,1,http://farm4.staticflickr.com/3796/11055838426_1750685f75_b.jpg
+471,1880,london,1,http://farm4.staticflickr.com/3823/11065667043_72c08eaaa7_b.jpg
+472,1880,bruxelles,1,http://farm3.staticflickr.com/2819/11153724763_2730e510d5_b.jpg
+473,1880,london,1,http://farm8.staticflickr.com/7418/11075764486_6c2996ed59_b.jpg
+474,1880,london,1,http://farm4.staticflickr.com/3773/11270874896_bba1ca1462_b.jpg
+475,1880,philadelphia,1,http://farm8.staticflickr.com/7333/11068838045_9f20cb81fd_b.jpg
+476,1880,reims,1,http://farm6.staticflickr.com/5471/11093573386_91469630d2_b.jpg
+477,1880,paris,1,http://farm3.staticflickr.com/2810/11081098275_d5f522b5f1_b.jpg
+478,1880,dublin,1,http://farm8.staticflickr.com/7398/11175287555_f85cd58a96_b.jpg
+479,1880,london,1,http://farm6.staticflickr.com/5544/11067795036_296aa240fe_b.jpg
+480,1880,london,1,http://farm4.staticflickr.com/3751/11079103283_01936339f6_b.jpg
+481,1880,london,1,http://farm6.staticflickr.com/5499/11078234013_7fa540b87c_b.jpg
+482,1880,"boston [mass.]; cambridge [mass., printed]",1,http://farm3.staticflickr.com/2865/11086244344_c092c6917e_b.jpg
+483,1880,london,1,http://farm4.staticflickr.com/3800/11080096354_0794d6a077_b.jpg
+484,1880,edinburgh,1,http://farm6.staticflickr.com/5536/11134844895_d96f85f9a1_b.jpg
+485,1880,stockholm,1,http://farm8.staticflickr.com/7307/11080933644_6036732cdf_b.jpg
+486,1880,philadelphia,1,http://farm8.staticflickr.com/7440/11271033376_b93fb63b66_b.jpg
+487,1880,paris,1,http://farm6.staticflickr.com/5546/11158888313_2c90c68748_b.jpg
+488,1880,london,1,http://farm3.staticflickr.com/2880/11169559924_b8d81deddf_b.jpg
+489,1880,london,1,http://farm8.staticflickr.com/7349/11069213585_b2d4a80a41_b.jpg
+490,1880,paris,1,http://farm8.staticflickr.com/7450/11081956676_cbc50c92a6_b.jpg
+491,1880,"boston [mass.], cambridge [mass. printed]",1,http://farm8.staticflickr.com/7326/11075274445_05f48412fb_b.jpg
+492,1880,london,1,http://farm6.staticflickr.com/5500/11175076376_65db0fb491_b.jpg
+493,1880,philadelphia,1,http://farm6.staticflickr.com/5499/11273011945_d4ccc56740_b.jpg
+494,1880,new york,1,http://farm3.staticflickr.com/2858/11279571706_4b9a0bcd37_b.jpg
+495,1880,stockholm,1,http://farm8.staticflickr.com/7372/11274960244_c92851467f_b.jpg
+496,1890,unknown,1,http://farm8.staticflickr.com/7360/11097521173_d4900e0d9d_b.jpg
+497,1890,london,1,http://farm8.staticflickr.com/7396/11295791875_73cea5d633_b.jpg
+498,1890,london,1,http://farm8.staticflickr.com/7428/11118739293_edf67a8cfe_b.jpg
+499,1890,london,1,http://farm6.staticflickr.com/5501/11102029193_74db4d00fb_b.jpg
+500,1890,"pp. vi. 334. ward & downey london, 1889",1,http://farm8.staticflickr.com/7389/11201508394_4080e82f29_b.jpg
+501,1890,london,1,http://farm4.staticflickr.com/3812/11132073016_71d61eed75_b.jpg
+502,1890,freiburg im breisgau,1,http://farm8.staticflickr.com/7337/11296492396_025936d03d_b.jpg
+503,1890,london,1,http://farm8.staticflickr.com/7306/11104005003_8e5c03f870_b.jpg
+504,1890,stuttgart,1,http://farm8.staticflickr.com/7333/11099442295_b730054683_b.jpg
+505,1890,london,1,http://farm8.staticflickr.com/7449/11186945404_4f3735e766_b.jpg
+506,1890,london,1,http://farm3.staticflickr.com/2816/11105891446_b7422f77b8_b.jpg
+507,1890,london,1,http://farm4.staticflickr.com/3700/11120752455_9b815f46a7_b.jpg
+508,1890,london,1,http://farm6.staticflickr.com/5482/11183676866_2220383f99_b.jpg
+509,1890,london,1,http://farm8.staticflickr.com/7347/11190172113_4dce6e8711_b.jpg
+510,1890,london,1,http://farm3.staticflickr.com/2848/11228956935_86dd82bc47_b.jpg
+511,1890,london,1,http://farm6.staticflickr.com/5476/11113534805_3e0dfb0d49_b.jpg
+512,1890,london,1,http://farm4.staticflickr.com/3740/11098603093_1eab76edb8_b.jpg
+513,1890,birmingham,1,http://farm6.staticflickr.com/5482/11304298273_808272efe6_b.jpg
+514,1890,new york; london,1,http://farm4.staticflickr.com/3830/11303358573_10cbf7f696_b.jpg
+515,1890,jena,1,http://farm4.staticflickr.com/3737/11098336133_2292dcf1b7_b.jpg
+516,1890,london,1,http://farm3.staticflickr.com/2846/11191976925_2d8bd50d85_b.jpg
+517,1890,london,1,http://farm6.staticflickr.com/5525/11115687503_72edc85d3f_b.jpg
+518,1890,london,1,http://farm4.staticflickr.com/3679/11218504216_26814ae02c_b.jpg
+519,1890,london,1,http://farm6.staticflickr.com/5508/11226899026_1a0ec4f751_b.jpg
+520,1890,jena,1,http://farm8.staticflickr.com/7433/11098170046_b25705f2fd_b.jpg
+521,1900,bombay,1,http://farm3.staticflickr.com/2812/11238643625_f227c81765_b.jpg
+522,1900,"boston, u.s.a",1,http://farm3.staticflickr.com/2840/11248933294_8ab4eb4fe6_b.jpg
+523,1900,london,1,http://farm4.staticflickr.com/3672/11151798655_ee1260fa26_b.jpg
+524,1900,london,1,http://farm4.staticflickr.com/3719/11300453215_4aef98ba51_b.jpg
+525,1900,boston,1,http://farm6.staticflickr.com/5542/11161823704_40c1eb0dd8_b.jpg
+526,1900,budapest,1,http://farm8.staticflickr.com/7299/11293130093_a84c956991_b.jpg
+527,1900,edinburgh,1,http://farm8.staticflickr.com/7343/11133780163_9e005aff92_b.jpg
+528,1900,"bangor, me",1,http://farm4.staticflickr.com/3801/11251027135_34fa9506a5_b.jpg
+529,1900,warrington,1,http://farm8.staticflickr.com/7358/11168657666_9213982b85_b.jpg
+530,1900,leipzig,1,http://farm8.staticflickr.com/7434/11300014445_9fb09210ed_b.jpg
+531,1900,aarau,1,http://farm4.staticflickr.com/3827/11236228323_e3a4890fe8_b.jpg
+532,1900,new york,1,http://farm4.staticflickr.com/3781/11287962334_6e23fdb3d8_b.jpg
+533,1900,leipzig,1,http://farm8.staticflickr.com/7405/11140971373_9b63802f27_b.jpg
+534,1900,karlsruhe,1,http://farm8.staticflickr.com/7454/11133840754_c1ec406cd8_b.jpg
+535,1900,caracas,1,http://farm8.staticflickr.com/7347/11233390113_06beb14664_b.jpg
+536,1900,london,1,http://farm8.staticflickr.com/7309/11253483834_72d1ec15e6_b.jpg
+537,1900,turnhout,1,http://farm8.staticflickr.com/7414/11167947424_582006dc1f_b.jpg
+538,1900,.-,1,http://farm4.staticflickr.com/3681/11301162016_60bcf8dfc7_b.jpg
+539,1900,ilkeston,1,http://farm8.staticflickr.com/7425/11250384574_c1d2e3da57_b.jpg
+540,1900,new york,1,http://farm4.staticflickr.com/3769/11251767685_9e2fc4dfc2_b.jpg
+541,1900,london,1,http://farm8.staticflickr.com/7350/11302671743_552ba500d7_b.jpg
+542,1900,paris,1,http://farm6.staticflickr.com/5515/11253447783_a091fca7d7_b.jpg
+543,1900,london,1,http://farm8.staticflickr.com/7406/11231265243_559ba9da6d_b.jpg
+544,1900,new york,1,http://farm6.staticflickr.com/5544/11232260476_a3772ebdff_b.jpg
+545,1900,london,1,http://farm6.staticflickr.com/5537/11133753176_1717a6b871_b.jpg
+546,1910,"roma, napoli, turin [printed]",1,http://farm6.staticflickr.com/5522/11287646456_05dc88e4e7_b.jpg
+547,1910,"roma, napoli, turin [printed]",1,http://farm3.staticflickr.com/2855/11287722403_33258af099_b.jpg
+548,1910,"roma, napoli, turin [printed]",1,http://farm6.staticflickr.com/5487/11170723876_0e224a8dc5_b.jpg
+549,1910,"george g. harrap & co. london, [1913.]",1,http://farm8.staticflickr.com/7356/11254405096_9ca1e6bf4a_b.jpg
+550,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7377/11171045843_628b816ceb_b.jpg
+551,1910,"ernest nister london; e. p. dutton & co. new york; printed in bavaria, [1912.]",1,http://farm4.staticflickr.com/3670/11254418623_76baeefb07_b.jpg
+552,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7405/11254336436_91a2c7e320_b.jpg
+553,1910,"roma, napoli, turin [printed]",1,http://farm3.staticflickr.com/2881/11170722665_1b94e7521f_b.jpg
+554,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7303/11170857403_41cf81e06a_b.jpg
+555,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7376/11170780525_fc43eeb2b3_b.jpg
+556,1910,"roma, napoli, turin [printed]",1,http://farm3.staticflickr.com/2883/11170689976_cfcb764543_b.jpg
+557,1910,"ernest nister london; e. p. dutton & co. new york; printed in bavaria, [1912.]",1,http://farm4.staticflickr.com/3736/11254363194_8f23d7d63b_b.jpg
+558,1910,"roma, napoli, turin [printed]",1,http://farm4.staticflickr.com/3708/11287627336_0c66ef2d68_b.jpg
+559,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7325/11170746125_40d15fb0a1_b.jpg
+560,1910,"roma, napoli, turin [printed]",1,http://farm3.staticflickr.com/2886/11254333446_8eef230aae_b.jpg
+561,1910,"george g. harrap & co. london, [1913.]",1,http://farm4.staticflickr.com/3774/11254379546_5d5a9e584a_b.jpg
+562,1910,"roma, napoli, turin [printed]",1,http://farm6.staticflickr.com/5479/11171042353_1dd11579dd_b.jpg
+563,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7314/11170835646_867a97afda_b.jpg
+564,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7319/11170811186_7a5db9744b_b.jpg
+565,1910,"george g. harrap & co. london, [1913.]",1,http://farm4.staticflickr.com/3728/11254401506_3145a522e7_b.jpg
+566,1910,"roma, napoli, turin [printed]",1,http://farm4.staticflickr.com/3833/11170906953_9f67b0910f_b.jpg
+567,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7327/11287714553_5dca327d0b_b.jpg
+568,1910,"roma, napoli, turin [printed]",1,http://farm8.staticflickr.com/7311/11170888734_bb83c929c5_b.jpg
+569,1910,"roma, napoli, turin [printed]",1,http://farm6.staticflickr.com/5526/11170763715_4f2a086364_b.jpg
+570,1910,"roma, napoli, turin [printed]",1,http://farm3.staticflickr.com/2838/11170794916_95bc99e00f_b.jpg
+571,1920,helsingissa,1,http://farm3.staticflickr.com/2880/11170889435_5cd89d31fc_b.jpg
+572,1920,helsingissa,1,http://farm4.staticflickr.com/3799/11287558585_b89ef27f1b_b.jpg
+573,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm6.staticflickr.com/5525/11171092903_1553ba9176_b.jpg
+574,1920,"pp. 79. erskine macdonald london, 1919",1,http://farm4.staticflickr.com/3821/11254429456_810ca11e67_b.jpg
+575,1920,"pp. vi. 79. g. bell & sons london, 1925",1,http://farm8.staticflickr.com/7337/11171095693_d29db9bbb9_b.jpg
+576,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm6.staticflickr.com/5547/11287683503_d61cfcda73_b.jpg
+577,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm6.staticflickr.com/5522/11170897655_3a5f8baf96_b.jpg
+578,1920,helsingissa,1,http://farm8.staticflickr.com/7334/11287604356_62f812773f_b.jpg
+579,1920,"pp. 45. g. g. harrap & co. london, 1918",1,http://farm3.staticflickr.com/2817/11254399025_e45d875c80_b.jpg
+580,1920,helsingissa,1,http://farm8.staticflickr.com/7363/11287605376_933d360e6a_b.jpg
+581,1920,"pp. 193. selwyn & blount london, 1920",1,http://farm4.staticflickr.com/3682/11170879215_bf05f41cb3_b.jpg
+582,1920,"pp. 59. j. w. arrowsmith bristol, 1920",1,http://farm6.staticflickr.com/5535/11170941784_d394bb9b35_b.jpg
+583,1920,"pp. ix. 268. harcourt & co. new york, 1920",1,http://farm8.staticflickr.com/7425/11170915686_96b5671299_b.jpg
+584,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm8.staticflickr.com/7399/11171096853_5dbf673c7b_b.jpg
+585,1920,"pp. 23. w. heffer & sons cambridge, 1923",1,http://farm4.staticflickr.com/3756/11254415845_6b6da83636_b.jpg
+586,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm4.staticflickr.com/3676/11170939306_37165d4135_b.jpg
+587,1920,"pp. 149. g. routledge & sons; kegan paul & co. london, [1921.]",1,http://farm4.staticflickr.com/3674/11287691773_af4eccd16a_b.jpg
+588,1920,"pp. x. 207. chatto & windus london, 1917",1,http://farm4.staticflickr.com/3763/11287608416_1f54f8ebce_b.jpg
+589,1920,"pp. 59. j. w. arrowsmith bristol, 1920",1,http://farm6.staticflickr.com/5522/11170919566_57d40657cd_b.jpg
+590,1920,"pp. 16. talbot press baile atha cliath, [1917.]",1,http://farm4.staticflickr.com/3762/11254392075_1cf2cb4063_b.jpg
+591,1920,"pp. 120. herbert jenkins london, 1917 [1916]",1,http://farm8.staticflickr.com/7431/11170929324_2d98a9637c_b.jpg
+592,1920,"pp. 149. g. routledge & sons; kegan paul & co. london, [1921.]",1,http://farm6.staticflickr.com/5542/11287635274_77f98b8472_b.jpg
+593,1920,"pp. 121. t. fisher unwin london, 1925",1,http://farm8.staticflickr.com/7358/11287601236_e27253a1ff_b.jpg
+594,1920,"pp. 48. a. h. stockwell london, [1922.]",1,http://farm4.staticflickr.com/3834/11287553785_affcc8ed53_b.jpg
+595,1920,"pp. 193. selwyn & blount london, 1920",1,http://farm6.staticflickr.com/5504/11170921106_3cd46de73e_b.jpg
+596,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm4.staticflickr.com/3733/11170908715_8403b63c0c_b.jpg
+597,1930,"pp. 61. jonathan cape london, 1927",1,http://farm4.staticflickr.com/3720/11170914895_07ec62e754_b.jpg
+598,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm6.staticflickr.com/5536/11170950586_acc04de2e7_b.jpg
+599,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm4.staticflickr.com/3771/11254423165_2be3178f39_b.jpg
+600,1930,"pp. xii. 249. simpkin, marshall & co. london, [1927.]",1,http://farm3.staticflickr.com/2862/11170960216_58a79ae0ee_b.jpg
+601,1930,"pp. 80. sands & co. london, [1926.]",1,http://farm8.staticflickr.com/7380/11287547175_50fd4bac08_b.jpg
+602,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm4.staticflickr.com/3674/11254449366_b4306841bc_b.jpg
+603,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm6.staticflickr.com/5538/11170966414_2c6fe587fc_b.jpg
+604,1930,"pp. 80. sands & co. london, [1926.]",1,http://farm8.staticflickr.com/7440/11287596426_0398f2d9ea_b.jpg
+605,1930,"pp. 41. cayme press london, 1926",1,http://farm3.staticflickr.com/2852/11287623284_fa844b06f3_b.jpg
+606,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm8.staticflickr.com/7365/11170907025_31a3a2beea_b.jpg
+607,1930,"pp. 61. jonathan cape london, 1927",1,http://farm8.staticflickr.com/7445/11171117163_15e994ba65_b.jpg
+608,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm4.staticflickr.com/3678/11170906475_205b18bfda_b.jpg
+609,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm3.staticflickr.com/2843/11170949146_4aaf162f40_b.jpg
+610,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm6.staticflickr.com/5540/11170966244_f15c05a9f0_b.jpg
+611,1930,"pp. 61. jonathan cape london, 1927",1,http://farm4.staticflickr.com/3780/11170961676_586240c077_b.jpg
+612,1930,"pp. 54. basil blackwell oxford, [1926.]",1,http://farm4.staticflickr.com/3691/11171105753_f0cff93daa_b.jpg
+613,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm8.staticflickr.com/7455/11254447366_1b879e32af_b.jpg
+614,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm3.staticflickr.com/2863/11254424375_69e37a9ae5_b.jpg
+615,1930,"pp. 61. jonathan cape london, 1927",1,http://farm3.staticflickr.com/2812/11170981384_e5d06a65bd_b.jpg
+616,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm8.staticflickr.com/7396/11254507703_978c1ee103_b.jpg
+617,1930,"pp. 61. jonathan cape london, 1927",1,http://farm8.staticflickr.com/7362/11170982744_18739289bf_b.jpg
+618,1930,"pp. 61. basil blackwell oxford, 1926",1,http://farm3.staticflickr.com/2808/11254419925_bac6fb0369_b.jpg
+619,1930,"pp. 61. jonathan cape london, 1927",1,http://farm8.staticflickr.com/7403/11171110053_86b66a4a32_b.jpg
+620,1930,"pp. 80. sands & co. london, [1926.]",1,http://farm6.staticflickr.com/5526/11287623244_eb50f9d075_b.jpg
+621,1950,"pp. 64. arthur h. stockwell ilfracombe, 1946",1,http://farm6.staticflickr.com/5475/11170924665_6553cc7d43_b.jpg
